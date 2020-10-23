@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my page! My name's Maria and I make things!
 
-You can use the [editor on GitHub](https://github.com/Maria-McGarty/Maria-McGarty.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![Bobbycat](https://lh3.googleusercontent.com/pw/ACtC-3do716AErCxmi4q6hgAsVrPqCFYPoYQhKbruT51zhvzLjP5XbATnV_YtRJyaCfOy8sJTaCLZ_ELm6pZh1rQPAZbxIUJoAwodsirzaR-pGvSx_hQ-b_epLSbz6hsmWRhy1lgfpERZDa0OOVAGF2qihRVow=s603-no?authuser=0  "bobbycat")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About Me...
+I'm simply here to _vibe_ and I really enjoy trying new things. I make stickers and do commissions :) 
 
-### Markdown
+## Contact
+The best way to get in touch with me is my email, but you can go ahead and DM me on social media as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Email: maria.mcgarty@gmail.com
+- Insta: mac.arty20
 
-```markdown
-Syntax highlighted code block
+## Check out my art...
+My instagram page:
+[Link](https://www.instagram.com/mac.arty20?r=nametag)
 
-# Header 1
-## Header 2
-### Header 3
+a very poorly organized google photos album:
+[Link](https://photos.app.goo.gl/tKVYN3bFeFUGtbQ17)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maria-McGarty/Maria-McGarty.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+a much smaller album for gifs:
+[Link](https://photos.google.com/album/AF1QipOolw5QeR7hR-XW_7BTlKPMvaexGiQbgjNpbmtP)
