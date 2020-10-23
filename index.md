@@ -12,11 +12,9 @@ The best way to get in touch with me is my email, but you can go ahead and DM me
 - Insta: mac.arty20
 
 ## Check out my art...
-My instagram page:
-[Link](https://www.instagram.com/mac.arty20?r=nametag)
 
-a very poorly organized google photos album:
-[Link](https://photos.app.goo.gl/tKVYN3bFeFUGtbQ17)
+[My instagram page](https://www.instagram.com/mac.arty20?r=nametag)
 
-a much smaller album for gifs:
-[Link](https://photos.google.com/album/AF1QipOolw5QeR7hR-XW_7BTlKPMvaexGiQbgjNpbmtP)
+[A very poorly organized google photos album](https://photos.app.goo.gl/tKVYN3bFeFUGtbQ17)
+
+[A much smaller album for gifs](https://photos.google.com/album/AF1QipOolw5QeR7hR-XW_7BTlKPMvaexGiQbgjNpbmtP)
