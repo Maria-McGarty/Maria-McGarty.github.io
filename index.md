@@ -9,13 +9,13 @@ I'm simply here to _vibe_ and I really enjoy trying new things. I make stickers 
 The best way to get in touch with me is my email, but you can go ahead and DM me on social media as well.
 
 - Email: maria.mcgarty@gmail.com
-- Insta: mac.arty20
+- Insta: marmac.art
 
 ## Check out my art...
 
 [Redbubble shop](https://www.redbubble.com/people/marmac-art/shop?asc=u&ref=account-nav-dropdown)
 
-[My instagram page](https://www.instagram.com/mac.arty20?r=nametag)
+[My instagram page](https://www.instagram.com/marmac.art?r=nametag)
 
 [A very poorly organized google photos album](https://photos.app.goo.gl/tKVYN3bFeFUGtbQ17)
 
